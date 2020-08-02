@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:	#D3D3D3;
+}
+.container{
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #A9A9A9;
+    font-size: 30px;
+}
+h4{
+    padding-top: 20px;
+    text-align: center;
+    background-color:	#D3D3D3;
+    font-size: 40px;
+}
+h1{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    background-color:	#D3D3D3;
+    font-size: 50px;
+}
+h2{
+    margin-left: 200px;
+    padding: 10px;
+    text-align: left;
+    font-size: 40px;
+}
+h3{
+    margin-left: 200px;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 30px;
+
+}
+.vid{
+    margin-left: 200px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-size: 20px;
+
+}
+.button{
+    cursor: pointer;
+}
+p{
+    margin-left: 200px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+ul li, ol li{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+#noodles,#sandwich{
+    background-color: #A9A9A9;
+}
+h6{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+
+}
+#img{
+    margin-left: 420px;
+}
+.image{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: right;
+}
